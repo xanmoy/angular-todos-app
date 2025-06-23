@@ -21,6 +21,6 @@ export class TodosService {
   ];
 
   constructor() {
-    console.log('TodosService initialized'); // You should see this
+    console.log('TodosService initialized');
   }
 }
